@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
     name="20thrice",
     version="1.0.0",
-    author="Your Name",
+    author="khawaidev",
     author_email="khawaimedia@gmail.com",
     description="A 20-20-20 rule reminder app to reduce eye strain",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/twenty-twenty-twenty",  # Replace with your repo link
+    url="https://github.com/khawaidev/20thrice",  # Replace with your repo link
     packages=find_packages(),
     install_requires=[
         "tkinter",
